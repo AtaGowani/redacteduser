@@ -1,10 +1,10 @@
-title: Redacted User
+title: The Redacted User
 author: Ata Gowani
 url: / # root address of the site
 description: > # description of the site (multiple lines allowed)
-  🧠 learning out loud about privacy  
-  ✊🏽 little digital rebellions, one post at a time  
-  ❌ slow-exiting the machine  
+  🧠 learning out loud about privacy<br>
+  ✊🏽 little digital rebellions, one post at a time<br>
+  ❌ slow-exiting the machine<br>
 
 permalink: /:slug
 
