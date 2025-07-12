@@ -6,7 +6,7 @@ title: About
 
 I’m not a privacy guru. I’m a software engineer who got fed up with how much of our digital lives are tracked, sold, and exploited.
 
-As I began my own journey, I noticed that most privacy advice was either meant for high-risk individuals and called for completely leaving mainstream platforms, or it only offered surface-level tips - helpful in the short term, but not enough to build lasting, sustainable privacy habits.
+As I began my own journey, I noticed that most privacy advice was either meant for high-risk individuals and called for completely leaving mainstream platforms, or it only offered surface-level tips. Which are helpful in the short term, but not enough to build lasting, sustainable privacy habits.
 
 ## What I want to provide
 
