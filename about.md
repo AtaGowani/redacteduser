@@ -6,21 +6,21 @@ title: About
 
 I’m not a privacy guru. I’m a software engineer who got fed up with how much of our digital lives are tracked, sold, and exploited.
 
-As I began my own journey, I noticed that most privacy advice was either meant for high-risk individuals and called for completely leaving mainstream platforms, or it only offered surface-level tips. Which are helpful in the short term, but not enough to build lasting, sustainable privacy habits.
+As I began my own journey, I noticed that most privacy advice fell into two extremes. It was either aimed at high-risk individuals and required completely leaving mainstream platforms, or it offered surface-level tips.
 
 ## What I want to provide
 
-This space is meant to be a place for learning out loud, for small digital rebellions, and for helping everyday users push back against all forms of digital tracking and surveillance, one step at a time.
+This space is for learning out loud, for small digital rebellions, and for helping everyday users push back against digital tracking and surveillance by building lasting, sustainable privacy habits.
 
-The content here is meant to provide the following:
+The content here focuses on:
 
 🔐 How to take back control of your data<br>
-📱 Practical ways to pluck out big tech from your phone and life<br>
+📱 Practical ways to remove Big Tech from your phone and life<br>
 🕵🏽‍♂️ How to move through the internet a little more quietly<br>
 
 **It’s not about going full tin-foil hat. It’s about knowing what’s watching you, and choosing when (or if) you want to be seen.**
 
-So if you’ve ever felt creeped out by how well your phone knows you...if you’ve ever wondered how much Facebook actually has on you...or if you just want to make your digital life a little more yours again - You’re in the right place.
+So if you’ve ever felt creeped out by how well your phone knows you...if you’ve ever wondered how much Facebook actually has on you...or if you just want to make your digital life a little more yours again - you’re in the right place.
 
 No shame. No judgment. No jargon.
 Just a slow, intentional exit from the machine.
