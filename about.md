@@ -6,7 +6,7 @@ title: About
 
 I’m not a privacy guru. I’m a software engineer who got fed up with how much of our digital lives are tracked, sold, and exploited.
 
-As I began my own journey, I noticed that most privacy advice fell into two extremes. It was either aimed at high-risk individuals and required completely leaving mainstream platforms, or it offered surface-level tips.
+As I began my own journey, I noticed that most privacy advice fell into two extremes. It was either aimed at high-risk individuals and required completely leaving mainstream platforms, or it offered surface-level tips that looked good on paper but didn’t do much to support real, long-term change.
 
 ## What I want to provide
 
