@@ -22,10 +22,7 @@ This space is meant to be a place for learning out loud, for small digital rebel
 
 **It’s not about going full tin-foil hat. It’s about knowing what’s watching you, and choosing when (or if) you want to be seen.**
 
-So if you’ve ever felt creeped out by how well your phone knows you...
-If you’ve ever wondered how much Facebook actually has on you...
-Or if you just want to make your digital life a little more yours again —
-You’re in the right place.
+So if you’ve ever felt creeped out by how well your phone knows you...if you’ve ever wondered how much Facebook actually has on you...or if you just want to make your digital life a little more yours again - You’re in the right place.
 
 No shame. No judgment. No jargon.
 Just a slow, intentional exit from the machine.
