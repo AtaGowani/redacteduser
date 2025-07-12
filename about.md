@@ -10,7 +10,7 @@ As I began my own journey, I noticed that most privacy advice was either meant f
 
 ## What I want to provide
 
-This space is meant to be a place for learning out loud, for small digital rebellions, and for helping everyday users push back against all kinds of tracking and surveillance, one step at a time.
+This space is meant to be a place for learning out loud, for small digital rebellions, and for helping everyday users push back against all forms of digital tracking and surveillance, one step at a time.
 
 The content here is meant to provide the following:
 
