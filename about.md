@@ -6,10 +6,11 @@ title: About
 
 I’m not a privacy guru. I’m a software engineer who got fed up with how much of our digital lives are tracked, sold, and exploited — and decided to do something about it.
 
-This space is a way for me to document and share what I am learning and utilizing:
-🔐 How to take back control of my data
-📱 Practical ways to pluck out big tech from my phone and my life
-🕵🏽‍♂️ How to move through the internet a little more quietly
+This space is a way for me to document and share what I am learning and utilizing:<br>
+
+🔐 How to take back control of your data<br>
+📱 Practical ways to pluck out big tech from your phone and life<br>
+🕵🏽‍♂️ How to move through the internet a little more quietly<br>
 
 ## What I realized?
 
