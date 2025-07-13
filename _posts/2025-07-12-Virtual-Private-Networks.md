@@ -51,4 +51,4 @@ VPNs are a solid layer of protection—but just one layer. They’re great for e
 If privacy is a priority for you, think of a VPN as a useful tool in a broader digital hygiene toolkit—not a catch-all solution.
 
 🧠 Want to learn more about how to reclaim your digital privacy?
-Follow (@the.redacted.user)[https://www.instagram.com/the.redacted.user/] for bite-sized tips on privacy, security, and resisting digital overreach—one little rebellion at a time.
+Follow [@the.redacted.user](https://www.instagram.com/the.redacted.user/) for bite-sized tips on privacy, security, and resisting digital overreach—one little rebellion at a time.
