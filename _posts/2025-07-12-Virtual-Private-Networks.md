@@ -3,7 +3,7 @@ layout: post
 tags: [privacy, VPN, network]
 ---
 
-# Virtual Private Networks (VPNs): What They Do—and What They Don’t
+# Virtual Private Networks (VPNs): What They Do and What They Don’t
 
 VPNs (Virtual Private Networks) are often mentioned as a quick fix for online privacy. But what do they actually protect you from? And what are their limits?
 
